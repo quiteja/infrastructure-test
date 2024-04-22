@@ -8,28 +8,28 @@ Teste de Infraestrutura QuiteJá
 
 # Tarefas:
 
- **1.Configuração da Instância EC2:**  
+ **1. Configuração da Instância EC2:**  
  Crie uma instância EC2 na AWS com o sistema operacional Linux, utilizando o nome de usuário "devops".  
 
-**2.Criação do Usuário "devops":**  
+**2. Criação do Usuário "devops":**  
  Configure um usuário não privilegiado chamado "devops" na instância EC2 e configure-o para execução de comandos sem a necessidade de sudo.
 
-**3.Instalação do Docker e Docker Compose:**  
+**3. Instalação do Docker e Docker Compose:**  
  -Instale o Docker e o Docker Compose na instância EC2.  
 
-**4.Implantação do Servidor Nginx (Em docker):**  
+**4. Implantação do Servidor Nginx (Em docker):**  
 - Configure e inicie um servidor Nginx na ultima versão na instância EC2.  
 - Verifique se o Nginx está funcionando corretamente.  
 
-**5.Implantação da Aplicação :**  
+**5. Implantação da Aplicação :**  
 - Implante uma aplicação na instância EC2.  
 - Você deve utilizar arquivo docker-compose.yml fornecido via GitHub.  
 
-**6.Configuração do Nginx como Proxy Reverso:**  
+**6. Configuração do Nginx como Proxy Reverso:**  
 - Configure o Nginx como um proxy reverso para encaminhar o tráfego para a aplicação Python.  
 - Verifique se o Nginx está roteando corretamente o tráfego para a aplicação.  
 
-**7.Documentação:**  
+**7. Documentação:**  
 - Documente cada etapa do processo, incluindo comandos utilizados e observações importantes.
 
 # Critérios de Avaliação:
