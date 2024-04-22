@@ -9,13 +9,13 @@ Teste de Infraestrutura QuiteJá
 # Tarefas:
 
  **1. Configuração da Instância EC2:**  
- Crie uma instância EC2 na AWS com o sistema operacional Linux, utilizando o nome de usuário "devops".  
+ - Crie uma instância EC2 na AWS com o sistema operacional Linux, utilizando o nome de usuário "devops".  
 
 **2. Criação do Usuário "devops":**  
- Configure um usuário não privilegiado chamado "devops" na instância EC2 e configure-o para execução de comandos sem a necessidade de sudo.
+ - Configure um usuário não privilegiado chamado "devops" na instância EC2 e configure-o para execução de comandos sem a necessidade de sudo.
 
 **3. Instalação do Docker e Docker Compose:**  
- -Instale o Docker e o Docker Compose na instância EC2.  
+ - Instale o Docker e o Docker Compose na instância EC2.  
 
 **4. Implantação do Servidor Nginx (Em docker):**  
 - Configure e inicie um servidor Nginx na ultima versão na instância EC2.  
