@@ -57,3 +57,5 @@ Preste atenção aos grupos de segurança da AWS durante a configuração da ins
 Certifique-se de não liberar mais permissões do que o necessário e de restringir o acesso apenas aos recursos essenciais para acessar a aplicação. Isso é fundamental para garantir a segurança da infraestrutura e minimizar o risco de exposição a possíveis vulnerabilidades.  
 
 Todo o processo deve ser realizado na instância Free Tier da AWS. Certifique-se de acompanhar os custos,para evitar cobranças inesperadas.  
+
+Caso tenha algum problema que não consiga resolver na implementação lembre-se de descrever na **documentação**.
