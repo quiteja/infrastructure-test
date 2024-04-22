@@ -32,7 +32,7 @@ Teste de Infraestrutura QuiteJá
 **7.Documentação:**  
 - Documente cada etapa do processo, incluindo comandos utilizados e observações importantes.
 
-**Critérios de Avaliação:**  
+# Critérios de Avaliação:
 
 Configuração correta da instância EC2 na AWS, utilizando o nome de usuário "devops".    
 
@@ -46,7 +46,7 @@ Configuração adequada do Nginx como proxy reverso para a aplicação Python.
 
 Documentação clara e completa de cada etapa do processo.
 
-**Observações:**  
+# Observações:  
 
 O candidato pode escolher a distribuição Linux de sua preferência.  
 
