@@ -31,6 +31,7 @@ Teste de Infraestrutura QuiteJá
 
 **7. Documentação:**  
 - Documente cada etapa do processo, incluindo comandos utilizados e observações importantes.
+- Adicionar o link (endereço de acesso da aplicaçã0) na documentação.
 
 # Critérios de Avaliação:
 
