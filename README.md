@@ -23,7 +23,7 @@ Teste de Infraestrutura QuiteJá
 
 **5. Implantação da Aplicação :**  
 - Implante uma aplicação na instância EC2.  
-- Você deve utilizar arquivo docker-compose.yml fornecido via GitHub.  
+- Você deve utilizar arquivo docker-compose.yml fornecido via GitHub. (https://github.com/quiteja/infrastructure-test/blob/develop/docker-compose.yml)  
 
 **6. Configuração do Nginx como Proxy Reverso:**  
 - Configure o Nginx como um proxy reverso para encaminhar o tráfego para a aplicação Python.  
