@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  hello-world:
+    image: rancher/hello-world
+    ports:
+      - "80:80"
