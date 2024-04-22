@@ -35,16 +35,25 @@ Teste de Infraestrutura QuiteJá
 **Critérios de Avaliação:**  
 
 Configuração correta da instância EC2 na AWS, utilizando o nome de usuário "devops".    
+
 Criação e configuração adequada do usuário não privilegiado "devops".    
+
 Instalação correta do Docker e Docker Compose na instância EC2.  
+
 Implantação bem-sucedida do servidor Nginx e da aplicação na instância EC2.   
+
 Configuração adequada do Nginx como proxy reverso para a aplicação Python.  
+
 Documentação clara e completa de cada etapa do processo.
 
 **Observações:**  
 
 O candidato pode escolher a distribuição Linux de sua preferência.  
+
 É obrigatório que o candidato utilize práticas de segurança ao configurar a instância EC2 e o acesso à aplicação.  
+
 Preste atenção aos grupos de segurança da AWS durante a configuração da instância EC2 e do Nginx.  
+
 Certifique-se de não liberar mais permissões do que o necessário e de restringir o acesso apenas aos recursos essenciais para acessar a aplicação. Isso é fundamental para garantir a segurança da infraestrutura e minimizar o risco de exposição a possíveis vulnerabilidades.  
+
 Todo o processo deve ser realizado na instância Free Tier da AWS. Certifique-se de acompanhar os custos,para evitar cobranças inesperadas.  
