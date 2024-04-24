@@ -26,7 +26,7 @@ Teste de Infraestrutura QuiteJá
 - Você deve utilizar arquivo docker-compose.yml fornecido via GitHub. (https://github.com/quiteja/infrastructure-test/blob/develop/docker-compose.yml)  
 
 **6. Configuração do Nginx como Proxy Reverso:**  
-- Configure o Nginx como um proxy reverso para encaminhar o tráfego para a aplicação Python.  
+- Configure o Nginx como um proxy reverso para encaminhar o tráfego para a aplicação.  
 - Verifique se o Nginx está roteando corretamente o tráfego para a aplicação.  
 
 **7. Documentação:**  
@@ -43,7 +43,7 @@ Instalação correta do Docker e Docker Compose na instância EC2.
 
 Implantação bem-sucedida do servidor Nginx e da aplicação na instância EC2.   
 
-Configuração adequada do Nginx como proxy reverso para a aplicação Python.  
+Configuração adequada do Nginx como proxy reverso para a aplicação.  
 
 Documentação clara e completa de cada etapa do processo.
 
