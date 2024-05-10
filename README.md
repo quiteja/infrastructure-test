@@ -18,7 +18,7 @@ Teste de Infraestrutura QuiteJá
  - Instale o Docker e o Docker Compose na instância EC2.  
 
 **4. Implantação do Servidor Nginx (Em docker):**  
-- Configure e inicie um servidor Nginx na ultima versão na instância EC2.  
+- Configure e inicie um servidor Nginx na ultima versão na instância EC2 **EM DOCKER**.  
 - Verifique se o Nginx está funcionando corretamente.  
 
 **5. Implantação da Aplicação :**  
